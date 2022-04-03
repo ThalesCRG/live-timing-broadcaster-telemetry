@@ -1,0 +1,2126 @@
+[
+    [
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 5.291502622129181,
+            "_trackStatus": 0,
+            "_totalDistance": 21638.63671875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 12,
+            "_lastSpeedTrap": 220.77195739746094,
+            "_maxSpeedTrap": 312.7384033203125,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 1,
+                    "penaltyType": 3,
+                    "time": 5
+                },
+                {
+                    "infringementType": 1,
+                    "penaltyType": 3,
+                    "time": 5
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                24.3137264251709,
+                21.568628311157227,
+                21.960786819458008,
+                19.215688705444336
+            ],
+            "_currentTyre": {
+                "tyre": 16,
+                "age": 5
+            },
+            "_gridPosition": 3,
+            "_resultStatus": 7,
+            "_driverStatus": 0,
+            "_driverNumber": 64,
+            "_driverName": "Tuptus",
+            "_currentLapNum": 6,
+            "_currentSector": 0,
+            "_sector1Time": 0,
+            "_sector2Time": 45247,
+            "_lastLapTime": 0,
+            "_bestSector2": 45247,
+            "_bestLapTime": 66280
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 10.14889156509222,
+            "_trackStatus": 0,
+            "_totalDistance": 21646.015625,
+            "_currentLapInvalid": 0,
+            "_carPosition": 15,
+            "_lastSpeedTrap": 315.4335021972656,
+            "_maxSpeedTrap": 315.4335021972656,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                15.686275482177734,
+                15.686275482177734,
+                14.509804725646973,
+                13.72549057006836
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 5
+            },
+            "_gridPosition": 2,
+            "_resultStatus": 7,
+            "_driverStatus": 0,
+            "_driverNumber": 21,
+            "_driverName": "Emqu",
+            "_currentLapNum": 6,
+            "_currentSector": 0,
+            "_sector1Time": 16681,
+            "_sector2Time": 0,
+            "_lastLapTime": 0,
+            "_bestSector1": 0,
+            "_bestLapTime": 66409
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 76365,
+                    "m_sector1TimeInMS": 19752,
+                    "m_sector2TimeInMS": 29516,
+                    "m_sector3TimeInMS": 27097,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 72479,
+                    "m_sector1TimeInMS": 16672,
+                    "m_sector2TimeInMS": 34987,
+                    "m_sector3TimeInMS": 20819,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67824,
+                    "m_sector1TimeInMS": 16865,
+                    "m_sector2TimeInMS": 30102,
+                    "m_sector3TimeInMS": 20856,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66517,
+                    "m_sector1TimeInMS": 16459,
+                    "m_sector2TimeInMS": 29752,
+                    "m_sector3TimeInMS": 20305,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.3166247903554,
+            "_trackStatus": 0,
+            "_totalDistance": 21724.330078125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 16,
+            "_lastSpeedTrap": 301.3159484863281,
+            "_maxSpeedTrap": 317.252685546875,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                }
+            ],
+            "_tyreWear": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 4
+            },
+            "_gridPosition": 4,
+            "_resultStatus": 7,
+            "_driverStatus": 0,
+            "_driverNumber": 54,
+            "_driverName": "Moon",
+            "_currentLapNum": 5,
+            "_currentSector": 0,
+            "_sector1Time": 16896,
+            "_sector2Time": 33883,
+            "_lastLapTime": 66517,
+            "_bestSector1": 29752,
+            "_bestSector2": 29516,
+            "_bestSector3": 20305,
+            "_bestLapTime": 66517
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 72435,
+                    "m_sector1TimeInMS": 20533,
+                    "m_sector2TimeInMS": 31159,
+                    "m_sector3TimeInMS": 20743,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67618,
+                    "m_sector1TimeInMS": 16906,
+                    "m_sector2TimeInMS": 30248,
+                    "m_sector3TimeInMS": 20463,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67438,
+                    "m_sector1TimeInMS": 16366,
+                    "m_sector2TimeInMS": 30456,
+                    "m_sector3TimeInMS": 20615,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 69068,
+                    "m_sector1TimeInMS": 18042,
+                    "m_sector2TimeInMS": 30435,
+                    "m_sector3TimeInMS": 20590,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67466,
+                    "m_sector1TimeInMS": 16536,
+                    "m_sector2TimeInMS": 30347,
+                    "m_sector3TimeInMS": 20582,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 75523,
+                    "m_sector1TimeInMS": 16407,
+                    "m_sector2TimeInMS": 34197,
+                    "m_sector3TimeInMS": 24918,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 10,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 5,
+            "_trackStatus": 4,
+            "_totalDistance": 28182.365234375,
+            "_currentLapInvalid": 1,
+            "_carPosition": 8,
+            "_lastSpeedTrap": 305.0329284667969,
+            "_maxSpeedTrap": 318.77056884765625,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 0,
+                    "penaltyType": 3
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 7,
+                    "time": 10
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                20.000001907348633,
+                18.431373596191406,
+                14.509804725646973,
+                14.117648124694824
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 6
+            },
+            "_gridPosition": 7,
+            "_resultStatus": 7,
+            "_driverStatus": 4,
+            "_driverNumber": 36,
+            "_driverName": "Spooki11",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 17890,
+            "_sector2Time": 0,
+            "_lastLapTime": 75523,
+            "_bestSector1": 30456,
+            "_bestSector2": 30248,
+            "_bestSector3": 20463,
+            "_bestLapTime": 67438
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.7416573867739413,
+            "_trackStatus": 0,
+            "_totalDistance": 156.27099609375,
+            "_currentLapInvalid": 0,
+            "_carPosition": 18,
+            "_lastSpeedTrap": 294.2291564941406,
+            "_maxSpeedTrap": 294.2291564941406,
+            "_wingdamage": {
+                "left": 15,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                6.274510383605957,
+                8.235294342041016,
+                3.9215688705444336,
+                5.098039627075195
+            ],
+            "_currentTyre": {
+                "tyre": 16,
+                "age": 0
+            },
+            "_gridPosition": 19,
+            "_resultStatus": 7,
+            "_driverStatus": 0,
+            "_driverNumber": 23,
+            "_driverName": "Maggz",
+            "_currentLapNum": 1,
+            "_currentSector": 0,
+            "_sector1Time": 22545,
+            "_sector2Time": 31906,
+            "_lastLapTime": 0,
+            "_bestSector1": 31906,
+            "_bestSector2": 31906
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 10,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 4.123105625617661,
+            "_trackStatus": 4,
+            "_totalDistance": 21766.48828125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 14,
+            "_lastSpeedTrap": 299.7120056152344,
+            "_maxSpeedTrap": 300.11663818359375,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 7,
+                    "time": 10
+                },
+                {
+                    "infringementType": 0,
+                    "penaltyType": 3
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 5
+            },
+            "_gridPosition": 1,
+            "_resultStatus": 7,
+            "_driverStatus": 4,
+            "_driverNumber": 24,
+            "_driverName": "Tom24",
+            "_currentLapNum": 6,
+            "_currentSector": 0,
+            "_sector1Time": 18723,
+            "_sector2Time": 0,
+            "_lastLapTime": 0,
+            "_bestSector1": 0,
+            "_bestLapTime": 66461
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 81834,
+                    "m_sector1TimeInMS": 20928,
+                    "m_sector2TimeInMS": 39953,
+                    "m_sector3TimeInMS": 20952,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66271,
+                    "m_sector1TimeInMS": 16652,
+                    "m_sector2TimeInMS": 29550,
+                    "m_sector3TimeInMS": 20069,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 81640,
+                    "m_sector1TimeInMS": 16608,
+                    "m_sector2TimeInMS": 37330,
+                    "m_sector3TimeInMS": 27701,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 87317,
+                    "m_sector1TimeInMS": 37638,
+                    "m_sector2TimeInMS": 29639,
+                    "m_sector3TimeInMS": 20038,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 75133,
+                    "m_sector1TimeInMS": 16652,
+                    "m_sector2TimeInMS": 29638,
+                    "m_sector3TimeInMS": 28842,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 83219,
+                    "m_sector1TimeInMS": 23188,
+                    "m_sector2TimeInMS": 33728,
+                    "m_sector3TimeInMS": 26302,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 3,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.872983346207417,
+            "_trackStatus": 4,
+            "_totalDistance": 27341.064453125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 11,
+            "_lastSpeedTrap": 306.69512939453125,
+            "_maxSpeedTrap": 309.8243408203125,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 21,
+                    "time": 3
+                }
+            ],
+            "_tyreWear": [
+                5.891160488128662,
+                5.492492198944092,
+                5.506336688995361,
+                5.104251384735107
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 2
+            },
+            "_gridPosition": 11,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 15,
+            "_driverName": "CoachIcon",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 17473,
+            "_sector2Time": 0,
+            "_lastLapTime": 83219,
+            "_bestSector1": 37330,
+            "_bestSector2": 29550,
+            "_bestSector3": 20038,
+            "_bestLapTime": 66271
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 73993,
+                    "m_sector1TimeInMS": 21900,
+                    "m_sector2TimeInMS": 31318,
+                    "m_sector3TimeInMS": 20774,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67808,
+                    "m_sector1TimeInMS": 17017,
+                    "m_sector2TimeInMS": 29974,
+                    "m_sector3TimeInMS": 20816,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67164,
+                    "m_sector1TimeInMS": 16805,
+                    "m_sector2TimeInMS": 29817,
+                    "m_sector3TimeInMS": 20541,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 68255,
+                    "m_sector1TimeInMS": 16633,
+                    "m_sector2TimeInMS": 31169,
+                    "m_sector3TimeInMS": 20452,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67023,
+                    "m_sector1TimeInMS": 16317,
+                    "m_sector2TimeInMS": 30034,
+                    "m_sector3TimeInMS": 20671,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 84855,
+                    "m_sector1TimeInMS": 16366,
+                    "m_sector2TimeInMS": 44339,
+                    "m_sector3TimeInMS": 24148,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.3166247903554,
+            "_trackStatus": 4,
+            "_totalDistance": 28451.607421875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 6,
+            "_lastSpeedTrap": 297.258056640625,
+            "_maxSpeedTrap": 315.8655090332031,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 1,
+                    "penaltyType": 3,
+                    "time": 5
+                }
+            ],
+            "_tyreWear": [
+                0.42672255635261536,
+                0.4059672951698303,
+                0.4043997824192047,
+                0.015972722321748734
+            ],
+            "_currentTyre": {
+                "tyre": 18,
+                "age": 0
+            },
+            "_gridPosition": 14,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 86,
+            "_driverName": "LümmelUP",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 43564,
+            "_sector2Time": 0,
+            "_lastLapTime": 84855,
+            "_bestSector1": 30034,
+            "_bestSector2": 29817,
+            "_bestSector3": 20452,
+            "_bestLapTime": 67023
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 73069,
+                    "m_sector1TimeInMS": 20380,
+                    "m_sector2TimeInMS": 31340,
+                    "m_sector3TimeInMS": 21348,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 68286,
+                    "m_sector1TimeInMS": 16876,
+                    "m_sector2TimeInMS": 30528,
+                    "m_sector3TimeInMS": 20881,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67232,
+                    "m_sector1TimeInMS": 16541,
+                    "m_sector2TimeInMS": 30219,
+                    "m_sector3TimeInMS": 20471,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 68116,
+                    "m_sector1TimeInMS": 16824,
+                    "m_sector2TimeInMS": 30655,
+                    "m_sector3TimeInMS": 20636,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66899,
+                    "m_sector1TimeInMS": 16443,
+                    "m_sector2TimeInMS": 29843,
+                    "m_sector3TimeInMS": 20613,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 76075,
+                    "m_sector1TimeInMS": 16769,
+                    "m_sector2TimeInMS": 34657,
+                    "m_sector3TimeInMS": 24648,
+                    "m_lapValidBitFlags": 0
+                },
+                {
+                    "m_lapTimeInMS": 74134,
+                    "m_sector1TimeInMS": 17787,
+                    "m_sector2TimeInMS": 35647,
+                    "m_sector3TimeInMS": 20699,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 6,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 5.196152422706632,
+            "_trackStatus": 4,
+            "_totalDistance": 30485.251953125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 1,
+            "_lastSpeedTrap": 291.0855407714844,
+            "_maxSpeedTrap": 317.5215148925781,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 21,
+                    "time": 3
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 7
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 28
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 21,
+                    "time": 3
+                },
+                {
+                    "infringementType": 1,
+                    "penaltyType": 12,
+                    "time": 5
+                }
+            ],
+            "_tyreWear": [
+                16.092405319213867,
+                14.522554397583008,
+                18.823604583740234,
+                16.470703125
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 7
+            },
+            "_gridPosition": 8,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 13,
+            "_driverName": "Sören",
+            "_currentLapNum": 8,
+            "_currentSector": 0,
+            "_sector1Time": 0,
+            "_sector2Time": 0,
+            "_lastLapTime": 74134,
+            "_bestSector1": 29843,
+            "_bestSector2": 29843,
+            "_bestSector3": 20471,
+            "_bestLapTime": 66899
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 73294,
+                    "m_sector1TimeInMS": 21436,
+                    "m_sector2TimeInMS": 30956,
+                    "m_sector3TimeInMS": 20901,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67166,
+                    "m_sector1TimeInMS": 16602,
+                    "m_sector2TimeInMS": 30208,
+                    "m_sector3TimeInMS": 20355,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67386,
+                    "m_sector1TimeInMS": 16478,
+                    "m_sector2TimeInMS": 30363,
+                    "m_sector3TimeInMS": 20543,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 74692,
+                    "m_sector1TimeInMS": 17828,
+                    "m_sector2TimeInMS": 32245,
+                    "m_sector3TimeInMS": 24618,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 89005,
+                    "m_sector1TimeInMS": 37597,
+                    "m_sector2TimeInMS": 29368,
+                    "m_sector3TimeInMS": 22039,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 76026,
+                    "m_sector1TimeInMS": 18701,
+                    "m_sector2TimeInMS": 34095,
+                    "m_sector3TimeInMS": 23229,
+                    "m_lapValidBitFlags": 0
+                }
+            ],
+            "_penaltyTime": 6,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 9.539392014169456,
+            "_trackStatus": 4,
+            "_totalDistance": 28696.60546875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 4,
+            "_lastSpeedTrap": 303.523681640625,
+            "_maxSpeedTrap": 317.48919677734375,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 7
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 21,
+                    "time": 3
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 28
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                7.84321403503418,
+                7.058824062347412,
+                6.274510383605957,
+                6.274510383605957
+            ],
+            "_currentTyre": {
+                "tyre": 16,
+                "age": 1
+            },
+            "_gridPosition": 15,
+            "_resultStatus": 7,
+            "_driverStatus": 4,
+            "_driverNumber": 37,
+            "_driverName": "alen",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 16615,
+            "_sector2Time": 0,
+            "_lastLapTime": 76026,
+            "_bestSector1": 30363,
+            "_bestSector2": 29368,
+            "_bestSector3": 20355,
+            "_bestLapTime": 67166
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 73867,
+                    "m_sector1TimeInMS": 21773,
+                    "m_sector2TimeInMS": 31149,
+                    "m_sector3TimeInMS": 20944,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 74106,
+                    "m_sector1TimeInMS": 17765,
+                    "m_sector2TimeInMS": 31662,
+                    "m_sector3TimeInMS": 24679,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 87716,
+                    "m_sector1TimeInMS": 37701,
+                    "m_sector2TimeInMS": 29754,
+                    "m_sector3TimeInMS": 20260,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 68750,
+                    "m_sector1TimeInMS": 16779,
+                    "m_sector2TimeInMS": 30486,
+                    "m_sector3TimeInMS": 21484,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 92428,
+                    "m_sector1TimeInMS": 16985,
+                    "m_sector2TimeInMS": 33720,
+                    "m_sector3TimeInMS": 41723,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 14.247806848775006,
+            "_trackStatus": 4,
+            "_totalDistance": 23848.267578125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 13,
+            "_lastSpeedTrap": 216.27667236328125,
+            "_maxSpeedTrap": 311.2019348144531,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                9.019608497619629,
+                9.803922653198242,
+                6.274510383605957,
+                7.058824062347412
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 2
+            },
+            "_gridPosition": 17,
+            "_resultStatus": 7,
+            "_driverStatus": 4,
+            "_driverNumber": 69,
+            "_driverName": "sehuga",
+            "_currentLapNum": 6,
+            "_currentSector": 1,
+            "_sector1Time": 31669,
+            "_sector2Time": 0,
+            "_lastLapTime": 92428,
+            "_bestSector1": 30486,
+            "_bestSector2": 29754,
+            "_bestSector3": 20260,
+            "_bestLapTime": 68750
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 76516,
+                    "m_sector1TimeInMS": 22261,
+                    "m_sector2TimeInMS": 33256,
+                    "m_sector3TimeInMS": 20997,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 70154,
+                    "m_sector1TimeInMS": 17302,
+                    "m_sector2TimeInMS": 30225,
+                    "m_sector3TimeInMS": 22626,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 73224,
+                    "m_sector1TimeInMS": 18020,
+                    "m_sector2TimeInMS": 30517,
+                    "m_sector3TimeInMS": 24687,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 93819,
+                    "m_sector1TimeInMS": 43078,
+                    "m_sector2TimeInMS": 30304,
+                    "m_sector3TimeInMS": 20435,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 70643,
+                    "m_sector1TimeInMS": 16744,
+                    "m_sector2TimeInMS": 30151,
+                    "m_sector3TimeInMS": 23748,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 78254,
+                    "m_sector1TimeInMS": 20483,
+                    "m_sector2TimeInMS": 30584,
+                    "m_sector3TimeInMS": 27186,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.3166247903554,
+            "_trackStatus": 4,
+            "_totalDistance": 27810.83984375,
+            "_currentLapInvalid": 0,
+            "_carPosition": 10,
+            "_lastSpeedTrap": 298.32080078125,
+            "_maxSpeedTrap": 303.3287658691406,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 1,
+                    "penaltyType": 8,
+                    "time": 5
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 0,
+                    "penaltyType": 37
+                }
+            ],
+            "_tyreWear": [
+                5.1216254234313965,
+                5.107746601104736,
+                5.098085880279541,
+                4.708662033081055
+            ],
+            "_currentTyre": {
+                "tyre": 18,
+                "age": 2
+            },
+            "_gridPosition": 16,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 8,
+            "_driverName": "Thomas",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 20424,
+            "_sector2Time": 0,
+            "_lastLapTime": 78254,
+            "_bestSector1": 30151,
+            "_bestSector2": 30151,
+            "_bestSector3": 20435,
+            "_bestLapTime": 70154
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 6.082762530298219,
+            "_trackStatus": 4,
+            "_totalDistance": 26054.818359375,
+            "_currentLapInvalid": 0,
+            "_carPosition": 9,
+            "_lastSpeedTrap": 210.399658203125,
+            "_maxSpeedTrap": 311.2278137207031,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                18.431373596191406,
+                17.647058486938477,
+                14.117648124694824,
+                14.509804725646973
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 6
+            },
+            "_gridPosition": 20,
+            "_resultStatus": 7,
+            "_driverStatus": 4,
+            "_driverNumber": 32,
+            "_driverName": "Jxstin",
+            "_currentLapNum": 7,
+            "_currentSector": 0,
+            "_sector1Time": 16863,
+            "_sector2Time": 0,
+            "_lastLapTime": 0,
+            "_bestSector1": 0,
+            "_bestLapTime": 66778
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 71096,
+                    "m_sector1TimeInMS": 20078,
+                    "m_sector2TimeInMS": 30039,
+                    "m_sector3TimeInMS": 20978,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67993,
+                    "m_sector1TimeInMS": 17054,
+                    "m_sector2TimeInMS": 30540,
+                    "m_sector3TimeInMS": 20397,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66747,
+                    "m_sector1TimeInMS": 16962,
+                    "m_sector2TimeInMS": 29534,
+                    "m_sector3TimeInMS": 20250,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66509,
+                    "m_sector1TimeInMS": 16650,
+                    "m_sector2TimeInMS": 29764,
+                    "m_sector3TimeInMS": 20094,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67232,
+                    "m_sector1TimeInMS": 16654,
+                    "m_sector2TimeInMS": 29954,
+                    "m_sector3TimeInMS": 20622,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 74875,
+                    "m_sector1TimeInMS": 16784,
+                    "m_sector2TimeInMS": 34705,
+                    "m_sector3TimeInMS": 23385,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 5.477225575051661,
+            "_trackStatus": 4,
+            "_totalDistance": 28447.3359375,
+            "_currentLapInvalid": 0,
+            "_carPosition": 7,
+            "_lastSpeedTrap": 134.05813598632812,
+            "_maxSpeedTrap": 317.40380859375,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 1,
+                    "penaltyType": 3,
+                    "time": 5
+                }
+            ],
+            "_tyreWear": [
+                16.470687866210938,
+                15.686275482177734,
+                12.549020767211914,
+                12.941177368164062
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 6
+            },
+            "_gridPosition": 5,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 19,
+            "_driverName": "Enthony",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 20037,
+            "_sector2Time": 0,
+            "_lastLapTime": 74875,
+            "_bestSector1": 29764,
+            "_bestSector2": 29534,
+            "_bestSector3": 20094,
+            "_bestLapTime": 66509
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 71304,
+                    "m_sector1TimeInMS": 20812,
+                    "m_sector2TimeInMS": 30282,
+                    "m_sector3TimeInMS": 20209,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67632,
+                    "m_sector1TimeInMS": 16728,
+                    "m_sector2TimeInMS": 30295,
+                    "m_sector3TimeInMS": 20608,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 68050,
+                    "m_sector1TimeInMS": 17174,
+                    "m_sector2TimeInMS": 30284,
+                    "m_sector3TimeInMS": 20591,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66698,
+                    "m_sector1TimeInMS": 16380,
+                    "m_sector2TimeInMS": 29805,
+                    "m_sector3TimeInMS": 20512,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66723,
+                    "m_sector1TimeInMS": 16416,
+                    "m_sector2TimeInMS": 29820,
+                    "m_sector3TimeInMS": 20486,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 75941,
+                    "m_sector1TimeInMS": 16455,
+                    "m_sector2TimeInMS": 34752,
+                    "m_sector3TimeInMS": 24732,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 1,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.3166247903554,
+            "_trackStatus": 4,
+            "_totalDistance": 28667.89453125,
+            "_currentLapInvalid": 0,
+            "_carPosition": 5,
+            "_lastSpeedTrap": 298.8418273925781,
+            "_maxSpeedTrap": 317.5068054199219,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 4
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                }
+            ],
+            "_tyreWear": [
+                1.1768664121627808,
+                0.7851671576499939,
+                0.39276954531669617,
+                0.39424729347229004
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 0
+            },
+            "_gridPosition": 10,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 88,
+            "_driverName": "Jannik",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 31877,
+            "_sector2Time": 0,
+            "_lastLapTime": 75941,
+            "_bestSector1": 29805,
+            "_bestSector2": 29805,
+            "_bestSector3": 20209,
+            "_bestLapTime": 66698
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 71125,
+                    "m_sector1TimeInMS": 20117,
+                    "m_sector2TimeInMS": 29559,
+                    "m_sector3TimeInMS": 21448,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67920,
+                    "m_sector1TimeInMS": 16857,
+                    "m_sector2TimeInMS": 30078,
+                    "m_sector3TimeInMS": 20985,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67609,
+                    "m_sector1TimeInMS": 17022,
+                    "m_sector2TimeInMS": 30025,
+                    "m_sector3TimeInMS": 20561,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66574,
+                    "m_sector1TimeInMS": 16465,
+                    "m_sector2TimeInMS": 29789,
+                    "m_sector3TimeInMS": 20319,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 66625,
+                    "m_sector1TimeInMS": 16256,
+                    "m_sector2TimeInMS": 29911,
+                    "m_sector3TimeInMS": 20456,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 75560,
+                    "m_sector1TimeInMS": 16812,
+                    "m_sector2TimeInMS": 35663,
+                    "m_sector3TimeInMS": 23084,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 4.242640687119285,
+            "_trackStatus": 4,
+            "_totalDistance": 28645.466796875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 20,
+            "_lastSpeedTrap": 169.98272705078125,
+            "_maxSpeedTrap": 316.9522399902344,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 6,
+                    "penaltyType": 12
+                }
+            ],
+            "_tyreWear": [
+                21.960786819458008,
+                20.39215850830078,
+                18.431385040283203,
+                18.431373596191406
+            ],
+            "_currentTyre": {
+                "tyre": 16,
+                "age": 6
+            },
+            "_gridPosition": 6,
+            "_resultStatus": 5,
+            "_driverStatus": 4,
+            "_driverNumber": 12,
+            "_driverName": "Affe",
+            "_currentLapNum": 7,
+            "_currentSector": 1,
+            "_sector1Time": 19908,
+            "_sector2Time": 0,
+            "_lastLapTime": 75560,
+            "_bestSector1": 29911,
+            "_bestSector2": 29559,
+            "_bestSector3": 20319,
+            "_bestLapTime": 66574
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 5.830951894845301,
+            "_trackStatus": 0,
+            "_totalDistance": 26126.10546875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 19,
+            "_lastSpeedTrap": 150.94349670410156,
+            "_maxSpeedTrap": 317.3721618652344,
+            "_wingdamage": {
+                "left": 0,
+                "right": 5
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 6,
+                    "penaltyType": 12
+                }
+            ],
+            "_tyreWear": [
+                23.5294132232666,
+                21.176471710205078,
+                18.823532104492188,
+                17.647058486938477
+            ],
+            "_currentTyre": {
+                "tyre": 16,
+                "age": 6
+            },
+            "_gridPosition": 9,
+            "_resultStatus": 5,
+            "_driverStatus": 0,
+            "_driverNumber": 45,
+            "_driverName": "TheBörner",
+            "_currentLapNum": 7,
+            "_currentSector": 0,
+            "_sector1Time": 18117,
+            "_sector2Time": 0,
+            "_lastLapTime": 0,
+            "_bestSector1": 0,
+            "_bestLapTime": 66965
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 73612,
+                    "m_sector1TimeInMS": 21599,
+                    "m_sector2TimeInMS": 31149,
+                    "m_sector3TimeInMS": 20863,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67495,
+                    "m_sector1TimeInMS": 16781,
+                    "m_sector2TimeInMS": 30038,
+                    "m_sector3TimeInMS": 20675,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67280,
+                    "m_sector1TimeInMS": 16562,
+                    "m_sector2TimeInMS": 30124,
+                    "m_sector3TimeInMS": 20594,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67498,
+                    "m_sector1TimeInMS": 16918,
+                    "m_sector2TimeInMS": 30075,
+                    "m_sector3TimeInMS": 20504,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 78643,
+                    "m_sector1TimeInMS": 26492,
+                    "m_sector2TimeInMS": 30902,
+                    "m_sector3TimeInMS": 21248,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 77573,
+                    "m_sector1TimeInMS": 20029,
+                    "m_sector2TimeInMS": 36527,
+                    "m_sector3TimeInMS": 21017,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.4641016151377544,
+            "_trackStatus": 4,
+            "_totalDistance": 28925.294921875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 3,
+            "_lastSpeedTrap": 291.0047302246094,
+            "_maxSpeedTrap": 313.3229064941406,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 1,
+                    "penaltyType": 3,
+                    "time": 5
+                }
+            ],
+            "_tyreWear": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 6
+            },
+            "_gridPosition": 12,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 71,
+            "_driverName": "Creppydrive",
+            "_currentLapNum": 7,
+            "_currentSector": 2,
+            "_sector1Time": 17334,
+            "_sector2Time": 46376,
+            "_lastLapTime": 77573,
+            "_bestSector1": 30124,
+            "_bestSector2": 30038,
+            "_bestSector3": 20504,
+            "_bestLapTime": 67280
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 0,
+                    "m_sector1TimeInMS": 0,
+                    "m_sector2TimeInMS": 0,
+                    "m_sector3TimeInMS": 0,
+                    "m_lapValidBitFlags": 15
+                }
+            ],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 3.4641016151377544,
+            "_trackStatus": 0,
+            "_totalDistance": 17386.359375,
+            "_currentLapInvalid": 0,
+            "_carPosition": 17,
+            "_lastSpeedTrap": 300.23272705078125,
+            "_maxSpeedTrap": 303.34808349609375,
+            "_wingdamage": {
+                "left": 100,
+                "right": 100
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 16,
+                    "penaltyType": 41
+                }
+            ],
+            "_tyreWear": [
+                13.72549057006836,
+                12.941177368164062,
+                12.941177368164062,
+                12.15686321258545
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 4
+            },
+            "_gridPosition": 18,
+            "_resultStatus": 7,
+            "_driverStatus": 0,
+            "_driverNumber": 72,
+            "_driverName": "Vito",
+            "_currentLapNum": 5,
+            "_currentSector": 0,
+            "_sector1Time": 0,
+            "_sector2Time": 30114,
+            "_lastLapTime": 0,
+            "_bestSector2": 30114,
+            "_bestLapTime": 66862
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [
+                {
+                    "m_lapTimeInMS": 74738,
+                    "m_sector1TimeInMS": 21136,
+                    "m_sector2TimeInMS": 32757,
+                    "m_sector3TimeInMS": 20843,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67251,
+                    "m_sector1TimeInMS": 16677,
+                    "m_sector2TimeInMS": 30072,
+                    "m_sector3TimeInMS": 20501,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 67370,
+                    "m_sector1TimeInMS": 16918,
+                    "m_sector2TimeInMS": 29904,
+                    "m_sector3TimeInMS": 20548,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 69273,
+                    "m_sector1TimeInMS": 16369,
+                    "m_sector2TimeInMS": 32206,
+                    "m_sector3TimeInMS": 20697,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 73881,
+                    "m_sector1TimeInMS": 16740,
+                    "m_sector2TimeInMS": 36623,
+                    "m_sector3TimeInMS": 20516,
+                    "m_lapValidBitFlags": 15
+                },
+                {
+                    "m_lapTimeInMS": 87506,
+                    "m_sector1TimeInMS": 17097,
+                    "m_sector2TimeInMS": 31351,
+                    "m_sector3TimeInMS": 39057,
+                    "m_lapValidBitFlags": 0
+                }
+            ],
+            "_penaltyTime": 3,
+            "_pitCount": 0,
+            "_flag": 3,
+            "_startTime": 0,
+            "_maxGForce": 12,
+            "_trackStatus": 4,
+            "_totalDistance": 29303.91796875,
+            "_currentLapInvalid": 0,
+            "_carPosition": 2,
+            "_lastSpeedTrap": 299.9858703613281,
+            "_maxSpeedTrap": 317.2932434082031,
+            "_wingdamage": {
+                "left": 0,
+                "right": 36
+            },
+            "_infrigements": [
+                {
+                    "infringementType": 5,
+                    "penaltyType": 27
+                },
+                {
+                    "infringementType": 0,
+                    "penaltyType": 37
+                },
+                {
+                    "infringementType": 4,
+                    "penaltyType": 7,
+                    "time": 3
+                },
+                {
+                    "infringementType": 0,
+                    "penaltyType": 37
+                }
+            ],
+            "_tyreWear": [
+                21.571041107177734,
+                20.001094818115234,
+                17.266225814819336,
+                16.083515167236328
+            ],
+            "_currentTyre": {
+                "tyre": 17,
+                "age": 6
+            },
+            "_gridPosition": 13,
+            "_resultStatus": 2,
+            "_driverStatus": 4,
+            "_driverNumber": 62,
+            "_driverName": "bYtR",
+            "_currentLapNum": 7,
+            "_currentSector": 2,
+            "_sector1Time": 17306,
+            "_sector2Time": 31686,
+            "_lastLapTime": 87506,
+            "_bestSector1": 32206,
+            "_bestSector2": 29904,
+            "_bestSector3": 20501,
+            "_bestLapTime": 67251
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 0,
+            "_startTime": 0,
+            "_maxGForce": 2.449489742783178,
+            "_trackStatus": 0,
+            "_totalDistance": 0,
+            "_currentLapInvalid": 0,
+            "_carPosition": 0,
+            "_lastSpeedTrap": 0,
+            "_maxSpeedTrap": 0,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [],
+            "_tyreWear": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_currentTyre": {
+                "tyre": 0,
+                "age": 0
+            },
+            "_gridPosition": 0,
+            "_resultStatus": 0,
+            "_driverStatus": 0,
+            "_driverNumber": 0,
+            "_currentLapNum": 0,
+            "_currentSector": 0,
+            "_sector1Time": 0,
+            "_sector2Time": 0,
+            "_lastLapTime": 0
+        },
+        {
+            "_events": {},
+            "_eventsCount": 0,
+            "_lapHistory": [],
+            "_penaltyTime": 0,
+            "_pitCount": 0,
+            "_flag": 0,
+            "_startTime": 0,
+            "_maxGForce": 2.449489742783178,
+            "_trackStatus": 0,
+            "_totalDistance": 0,
+            "_currentLapInvalid": 0,
+            "_carPosition": 0,
+            "_lastSpeedTrap": 0,
+            "_maxSpeedTrap": 0,
+            "_wingdamage": {
+                "left": 0,
+                "right": 0
+            },
+            "_infrigements": [],
+            "_tyreWear": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_currentTyre": {
+                "tyre": 0,
+                "age": 0
+            },
+            "_gridPosition": 0,
+            "_resultStatus": 0,
+            "_driverStatus": 0,
+            "_driverNumber": 0,
+            "_currentLapNum": 0,
+            "_currentSector": 0,
+            "_sector1Time": 0,
+            "_sector2Time": 0,
+            "_lastLapTime": 0
+        }
+    ],
+    {
+        "_events": {},
+        "_eventsCount": 0,
+        "lightsOutTime": 0,
+        "safetyCarStatus": 1,
+        "airTemperature": 20,
+        "trackTemperature": 29,
+        "sessionType": 10,
+        "sessionTimeLeft": 6703,
+        "pitSpeedLimit": 80,
+        "currentWeather": 1,
+        "weatherForecasts": [
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 0,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 21,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 7
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 5,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 21,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 8
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 10,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 21,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 8
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 15,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 21,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 9
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 30,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 21,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 12
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 45,
+                "m_weather": 1,
+                "m_trackTemperature": 29,
+                "m_trackTemperatureChange": 2,
+                "m_airTemperature": 20,
+                "m_airTemperatureChange": 1,
+                "m_rainPercentage": 14
+            },
+            {
+                "m_sessionType": 10,
+                "m_timeOffset": 60,
+                "m_weather": 1,
+                "m_trackTemperature": 28,
+                "m_trackTemperatureChange": 1,
+                "m_airTemperature": 20,
+                "m_airTemperatureChange": 2,
+                "m_rainPercentage": 14
+            }
+        ],
+        "totalLaps": 36,
+        "track": 17,
+        "fastestLap": {
+            "time": 66.271,
+            "driver": ""
+        }
+    }
+]
